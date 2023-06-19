@@ -6,7 +6,7 @@ import (
 	"github.com/stretchr/testify/assert"
 )
 
-//I forgot my comments.. i will update in place... BIG NOOO
+// remove the commit
 func TestUserNameChange(t *testing.T) {
 	u := user{
 		name: "mukund",
